@@ -1,3 +1,8 @@
+## What is this
+本家はこちら -> https://github.com/nadirhamid/asterisk-audiofork
+
+asterisk-20.4.0 で実用可能かどうかを調査するために 2023.08.31 に本家から Fork したもの。
+
 ## What is app_audiofork
 
 app_audiofork lets you integrate raw audio streams in your third party app by making minor adjustments to your asterisk dialplan. 
